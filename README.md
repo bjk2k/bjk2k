@@ -1,4 +1,3 @@
-### Proclamation of the mighty Red Panda Emperor
 ```
                              ███                             
                       █      █           █                   
@@ -36,18 +35,17 @@
 ```
 
 @whoami:
--  student at TU Darmstadt (mathematics + IT-Security
--  routinely bored (very dangerous)
--  male and naturally veeery handsome
--  proud of his hair but hates his teeth
+-  student at TU Darmstadt (mathematics + IT-Security)
+-  never found a topic he's not interested in
 -  has a dog and likes red pandas
 
 Currently working on:
--  data collection and processing for financial data
+-  Databricks, MLFlow, and Azure Data Platforms for financial Data Processing
+-  Making my configurations and deployments more well-defined and resilient with Nix(OS)
+-  (Py)Spark on DeltaLake
 -  examining the security of some cyber-physical systems
 -  LoRaWAN sensor networks
 -  embedded systems with MbedOS
 -  discrete-time simulation using RUST
 -  some lua neovim plugins
--  making my configurations more portable
--  an autonomous sailing boat
+-  an autonomous sailing boat usin ROS
